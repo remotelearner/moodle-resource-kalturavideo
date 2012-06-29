@@ -1,6 +1,6 @@
 +Install instructions+
 
-Copy all of the files to mod/resource/type/kalturavideo
+Copy the kalturavideo directory to your to mod/resource/type/ directory.
 
 +Requirements+
 
